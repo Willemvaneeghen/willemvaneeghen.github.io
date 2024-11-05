@@ -15,5 +15,5 @@ navLinks.forEach(link => {
             behavior: 'smooth'
         });
     });
-});
+
 
